@@ -1,5 +1,5 @@
 # Ardunio ile ultrasonik radar
-SG90 micro servo motor aracılığı ile HC-SR04 Ultrasonik mesafe sensörünü 15 ile 165 derece arasında hareket ettiriliyor. HC-SR04 Ultrasonik mesafe sensörü ile ses dalgaları üreterek 3 cm ile 400 cm arasında bir nesne algılanırsa sesli sinyal ile uyarı veriliyor. TRIG pininden sinyal verildiğinde bir ses dalgası sensör tarafından üretilir ve bu ses dalgası cisme çarpıp geri döndüğünde ECHO pini aktif hale gelir.
+SG90 micro servo motor aracılığı ile HC-SR04 Ultrasonik mesafe sensörü 15 ile 165 derece arasında hareket ettiriliyor. HC-SR04 Ultrasonik mesafe sensörü ile ses dalgaları üreterek 3 cm ile 400 cm arasında bir nesne algılanırsa sesli sinyal ile uyarı veriliyor. TRIG pininden sinyal verildiğinde bir ses dalgası sensör tarafından üretilir ve bu ses dalgası cisme çarpıp geri döndüğünde ECHO pini aktif hale gelir.
 
 ![image](https://user-images.githubusercontent.com/73762823/156896703-3321fcf4-158f-4f57-b6c9-1977bef62f7a.png)
 
